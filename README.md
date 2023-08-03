@@ -1,13 +1,12 @@
 # Data-Science
-This is my repository of some mini projects that I did.
-Some of the Projects Include 
+This Repository on Data Science contains some of the projects I did.
+Some of them are in
 
-Natural Language Processing
+1. Natural Language Processing
+2. Some Claqssification Models
+3. Regression Models
+4. Convolutional Neural Network(CNN)
 
-Machine Learning for Breast Cancer Prediction
-
-Convolutional Neural Network for Image Classification
-
-etc
-
-and it will be updated from time to time.
+However One Should go to my model for image prediction using Neural Networks
+ that is done using varying number of Neural Networks and varying the Learning Rates 
+and good observations on Loss of Information have beee observed.
