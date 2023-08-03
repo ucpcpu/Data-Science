@@ -7,6 +7,7 @@ Some of them are in
 3. Regression Models
 4. Convolutional Neural Network(CNN)
 
-However One Should go to my model for image prediction using Neural Networks
- that is done using varying number of Neural Networks and varying the Learning Rates 
-and good observations on Loss of Information have been observed.
+   However One Should go to my model for 
+5. Image prediction using Neural Networks
+   that is done using varying number of Neural Networks and varying the Learning Rates 
+   and good observations on Loss of Information have been observed.
