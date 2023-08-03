@@ -9,4 +9,4 @@ Some of them are in
 
 However One Should go to my model for image prediction using Neural Networks
  that is done using varying number of Neural Networks and varying the Learning Rates 
-and good observations on Loss of Information have beee observed.
+and good observations on Loss of Information have been observed.
